@@ -48,8 +48,8 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 
   
 ### Related References:
-[CATENA](https://github.com/yashagr911/catena-finall)
-[Relation Classification](https://github.com/sahitya0000/Relation-Classification)
+- [CATENA](https://github.com/yashagr911/catena-finall)
+- [Relation Classification](https://github.com/sahitya0000/Relation-Classification)
   
 
 
