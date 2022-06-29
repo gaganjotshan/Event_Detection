@@ -19,8 +19,15 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 Reference Paper: [Knowledge-oriented convolutional neural network for causal relation extraction from natural language texts](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305177#!)
 data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50&resourcekey=0-k0OTSIGrF9UAcrTFfInlrw)
 
+  
+## Work Flow
+- [Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
+- [Spliting Training-Validation Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/split_2.ipynb) 
+- [Pre-Processing](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/Preprocess_3_ref.ipynb) 
+- [Classification Model](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/NeuralClassification_4_ref.ipynb) 
+  
+  
 ## Environment
-
 - Python 3.7.13
 - scikit-learn==1.0.0
 - wget==3.2
