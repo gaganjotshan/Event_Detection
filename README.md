@@ -21,10 +21,10 @@ data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLug
 
   
 ## Work Flow
-- 1. [Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
-- 2. [Spliting Training-Validation Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/split_2.ipynb) 
-- 3. [Pre-Processing](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/Preprocess_3_ref.ipynb) 
-- 4. [Classification Model](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/NeuralClassification_4_ref.ipynb) 
+- [1. Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
+- [2. Spliting Training-Validation Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/split_2.ipynb) 
+- [3. Pre-Processing](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/Preprocess_3_ref.ipynb) 
+- [4. Classification Model](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/NeuralClassification_4_ref.ipynb) 
   
   
 ## Environment
@@ -39,5 +39,9 @@ data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLug
 ## Architecture
 [CNN + BGRU ](https://github.com/gaganjotshan/Event_Detection/blob/main/BGRU_MEA.png)
 
+  
+### Replication Attempt:
+- [Relation Classification](https://github.com/sahitya0000/Relation-Classification)
+  
 
 
