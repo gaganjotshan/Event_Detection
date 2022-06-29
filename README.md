@@ -16,8 +16,8 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 
 
 ## Dataset
-Reference Paper: [Knowledge-oriented convolutional neural network for causal relation extraction from natural language texts](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305177#!)
-data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50&resourcekey=0-k0OTSIGrF9UAcrTFfInlrw)
+- Reference Paper: [Knowledge-oriented convolutional neural network for causal relation extraction from natural language texts](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305177#!)
+- Data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50&resourcekey=0-k0OTSIGrF9UAcrTFfInlrw)
 
   
 ## Work Flow
