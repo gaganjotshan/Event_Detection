@@ -19,6 +19,13 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 - Reference Paper: [Knowledge-oriented convolutional neural network for causal relation extraction from natural language texts](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305177#!)
 - Data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50&resourcekey=0-k0OTSIGrF9UAcrTFfInlrw)
 
+## Project Presentation 
+  [Presentation](https://github.com/gaganjotshan/Event_Detection/blob/main/Shan%2BAgarwalla-K-NN%20and%20CATENA%20replication-Presentation.pdf)
+  
+  
+## Project Report
+  [Report](https://github.com/gaganjotshan/Event_Detection/blob/main/Shan-K-NN%20replication%20Report.pdf)
+  
   
 ## Work Flow
 - [1. Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
@@ -40,7 +47,8 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 [CNN + BGRU ](https://github.com/gaganjotshan/Event_Detection/blob/main/BGRU_MEA.png)
 
   
-### Replication Attempt:
+### Related References:
+[CATENA](https://github.com/yashagr911/catena-finall)
 [Relation Classification](https://github.com/sahitya0000/Relation-Classification)
   
 
