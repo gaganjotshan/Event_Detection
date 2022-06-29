@@ -41,7 +41,7 @@ data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLug
 
   
 ### Replication Attempt:
-- [Relation Classification](https://github.com/sahitya0000/Relation-Classification)
+[Relation Classification](https://github.com/sahitya0000/Relation-Classification)
   
 
 
