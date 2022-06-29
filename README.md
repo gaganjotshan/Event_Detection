@@ -21,20 +21,20 @@ data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLug
 
   
 ## Work Flow
-- [Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
-- [Spliting Training-Validation Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/split_2.ipynb) 
-- [Pre-Processing](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/Preprocess_3_ref.ipynb) 
-- [Classification Model](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/NeuralClassification_4_ref.ipynb) 
+- 1. [Creating Training Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/trainingset_1.ipynb)
+- 2. [Spliting Training-Validation Set](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/split_2.ipynb) 
+- 3. [Pre-Processing](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/Preprocess_3_ref.ipynb) 
+- 4. [Classification Model](https://github.com/gaganjotshan/Event_Detection/blob/main/notebooks/NeuralClassification_4_ref.ipynb) 
   
   
 ## Environment
 - Python 3.7.13
-- scikit-learn==1.0.0
-- wget==3.2
-- gensim==3.6.0
-- psutil==5.4.8
-- spacy==2.2.4
-- keras==2.8
+- scikit-learn 1.0.0
+- wget 3.2
+- gensim 3.6.0
+- psutil 5.4.8
+- spacy 2.2.4
+- keras 2.8
 
 ## Architecture
 [CNN + BGRU ](https://github.com/gaganjotshan/Event_Detection/blob/main/BGRU_MEA.png)
