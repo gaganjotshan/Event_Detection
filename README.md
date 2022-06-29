@@ -20,7 +20,7 @@ We are working on the SemEval-2010 task 8 challenge for the classification of th
 - Data: [SemEval2010_task8_all_data.zip](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50&resourcekey=0-k0OTSIGrF9UAcrTFfInlrw)
 
 ## Project Presentation 
-  [Presentation](https://github.com/gaganjotshan/Event_Detection/blob/main/Shan%2BAgarwalla-K-NN%20and%20CATENA%20replication-Presentation.pdf)
+  [Presentation](https://github.com/gaganjotshan/Event_Detection/blob/main/Shan%2BAgarwalla-K-NN_CATENA_Presentation.pdf)
   
   
 ## Project Report
