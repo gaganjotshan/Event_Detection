@@ -4,7 +4,7 @@
 
 
 ## Description
-We are working on the SemEval-2010 task 8 challenge for the classification of the entity pairs. An event is expressed as a sentence involving keywords and actions related to those keywords. The input sentences are marked with target entities e1 and e2. For instance, given a sentence, S: "The financial <e1>crisis</e1> resulted in 12% <e2>unemployment<e2/> in this country", the entity pair is defined as (e1,e2). The sentences in the database are the reflections of events, which include the relationship between the entities (e1 and e2) explicitly with linguistic clues; "results in", "cause", and "because".
+I worked on the SemEval-2010 task 8 challenge for classifying the entity pairs. An event is expressed as a sentence involving keywords and actions related to those keywords. The input sentences are marked with target entities e1 and e2. For instance, given a sentence, S: "The financial <e1>crisis</e1> resulted in 12% <e2>unemployment<e2/> in this country", the entity pair is defined as (e1,e2). The sentences in the database are the reflections of events, which include the relationship between the entities (e1 and e2) explicitly with linguistic clues; "results in", "cause", and "because".
   
   
 ## KeyWords
